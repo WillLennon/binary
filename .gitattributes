@@ -2,3 +2,4 @@
 *.txt text
 *.lg linguist-generated
 *.bin binary
+*.jpg text
