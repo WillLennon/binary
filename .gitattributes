@@ -1,0 +1,4 @@
+*.avro binary
+*.txt text
+*.lg linguist-generated
+*.bin binary
